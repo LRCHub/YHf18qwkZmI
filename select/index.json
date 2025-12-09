@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "絶望性：ヒーロー治療薬",
+  "base_artist": "スズム",
+  "createdAt": "2025-12-09T11:39:37.021087Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "絶望性:ヒーロー治療薬",
+      "artist": "スズムfeat.そらる",
+      "has_synced": true,
+      "path": "select/01_絶望性_ヒーロー治療薬_スズムfeat.そらる.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "絶望性:ヒーロー治療薬",
+      "artist": "スズムfeat.そらる",
+      "has_synced": true,
+      "path": "select/02_絶望性_ヒーロー治療薬_スズムfeat.そらる.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "絶望性:ヒーロー治療薬",
+      "artist": "スズム",
+      "has_synced": true,
+      "path": "select/03_絶望性_ヒーロー治療薬_スズム.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "絶望性:ヒーロー治療薬",
+      "artist": "スズム feat. そらる",
+      "has_synced": true,
+      "path": "select/04_絶望性_ヒーロー治療薬_スズム_feat._そらる.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "絶望性：ヒーロー治療薬",
+      "artist": "スズムfeat.そらる",
+      "has_synced": true,
+      "path": "select/05_絶望性_ヒーロー治療薬_スズムfeat.そらる.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "絶望性:ヒーロー治療薬",
+      "artist": "スズム",
+      "has_synced": true,
+      "path": "select/06_絶望性_ヒーロー治療薬_スズム.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "絶望性：ヒーロー治療薬",
+      "artist": "スズム feat.そらる",
+      "has_synced": true,
+      "path": "select/07_絶望性_ヒーロー治療薬_スズム_feat.そらる.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "絶望性：ヒーロー治療薬 feat.そらる",
+      "artist": "スズムfeat.そらる",
+      "has_synced": true,
+      "path": "select/08_絶望性_ヒーロー治療薬_feat.そらる_スズムfeat.そらる.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "絶望性:ヒーロー治療薬 (feat. そらる)",
+      "artist": "スズム & そらる",
+      "has_synced": true,
+      "path": "select/09_絶望性_ヒーロー治療薬_(feat._そらる)_スズム_&_そらる.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "絶望性∶ヒーロー治療薬 (feat․ そらる)",
+      "artist": "スズム",
+      "has_synced": true,
+      "path": "select/10_絶望性∶ヒーロー治療薬_(feat._そらる)_スズム.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "絶望性：ヒーロー治療薬 feat. 鏡音レン",
+      "artist": "スズム",
+      "has_synced": true,
+      "path": "select/11_絶望性_ヒーロー治療薬_feat._鏡音レン_スズム.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "絶望性:ヒーロー治療薬",
+      "artist": "スズムfeat.そらる",
+      "has_synced": false,
+      "path": "select/pl_01_絶望性_ヒーロー治療薬_スズムfeat.そらる.txt"
+    }
+  ]
+}
